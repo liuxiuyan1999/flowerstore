@@ -15,7 +15,7 @@
 		<tr>
 			<td style="padding-left:20px">
 				<font color="#CCCCCC">
-					<b>COPYRIGHT 2016 &copy; ItcastStore All Rights RESERVED.</b> 
+					<b>COPYRIGHT 2016 &copy; FlowerStore All Rights RESERVED.</b> 
 				</font>
 			</td>
 		</tr>

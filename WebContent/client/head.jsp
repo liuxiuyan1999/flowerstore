@@ -1,5 +1,5 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<%@ page import="cn.itcast.itcaststore.domain.User"%>
+<%@ page import="cn.flowerstore.domain.User"%>
 <script type="text/javascript">
 //退出确认框
 function confirm_logout() {   

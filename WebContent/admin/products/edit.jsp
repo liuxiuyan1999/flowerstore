@@ -55,10 +55,10 @@
 				<td class="ta_01" bgColor="#ffffff">
 					<select name="category" id="category">
 						<option value="">--选择商品类加--</option>
-						<option value="red">红色</option>
-						<option value="yellow">黄色</option>
-						<option value="blue">蓝色</option>
-						<option value="white">白色</option>
+						<option value="red">草本花卉</option>
+						<option value="yellow">乔木花卉</option>
+						<option value="blue">灌木花卉</option>
+						<option value="white">藤本花卉</option>
 						<!--option value="经营">经营</option>
 						<option value="励志">励志</option>
 						<option value="社科">社科</option>

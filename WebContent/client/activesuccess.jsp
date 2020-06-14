@@ -2,6 +2,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
+<meta http-equiv="Content-Language" content="zh-cn">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>网上花城</title>
 	<link rel="stylesheet" href="css/main.css" type="text/css" />
 	<script type="text/javascript" src="js/my.js"></script>

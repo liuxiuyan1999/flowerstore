@@ -24,6 +24,10 @@
 			  <tr>
 			  	<td><a href="${pageContext.request.contextPath}/manager/ListNoticeServlet" target="mainFrame" class="left_list">公告管理</a></td>
 			  </tr>
+			  <tr>
+			  	<td><a href="${pageContext.request.contextPath}/listUser" target="mainFrame" class="left_list">用户管理</a></td>
+			  </tr>
+			  
 		</table>
 	</body>
 </html>

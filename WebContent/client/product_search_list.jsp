@@ -4,6 +4,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
+<meta http-equiv="Content-Language" content="zh-cn">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>flowerStore列表</title>
 	<%--导入css --%>
 	<link rel="stylesheet" href="client/css/main.css" type="text/css" />

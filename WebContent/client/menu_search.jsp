@@ -28,10 +28,10 @@ function search(){
 }
 </script>
 <div id="divmenu">
-		<a href="${pageContext.request.contextPath}/showProductByPage?category=red">红色的花</a> 
-		<a href="${pageContext.request.contextPath}/showProductByPage?category=yellow">黄色的花</a> 
-		<a href="${pageContext.request.contextPath}/showProductByPage?category=blue">蓝色的花</a> 
-		<a href="${pageContext.request.contextPath}/showProductByPage?category=white">白色的花</a> 
+		<a href="${pageContext.request.contextPath}/showProductByPage?category=red">草本花卉-红炉点雪</a> 
+		<a href="${pageContext.request.contextPath}/showProductByPage?category=yellow">乔木花卉-黄尘清水</a> 
+		<a href="${pageContext.request.contextPath}/showProductByPage?category=blue">灌木花卉-蓝田生玉</a> 
+		<a href="${pageContext.request.contextPath}/showProductByPage?category=white">藤本花卉-白玉映沙</a> 
 		<!--a href="${pageContext.request.contextPath}/showProductByPage?category=经营">经管</a>
 		<a href="${pageContext.request.contextPath}/showProductByPage?category=励志">励志</a> 
 		<a href="${pageContext.request.contextPath}/showProductByPage?category=社科">社科</a> 

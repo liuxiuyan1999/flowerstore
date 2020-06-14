@@ -23,7 +23,7 @@ function checkReceiverAddress() {			// 验证收获地址
 	var value =receiverAddressObj.value;
 	var msg = "";
 	if (!value)
-		msg = "收获地址必须填写";	
+		msg = "(The address must be provided)";	
 	receiverAddressMsg.innerHTML = msg;
 	receiverAddressObj.parentNode.parentNode.style.color = msg == "" ? "black" : "red";
 	return msg == "";
@@ -33,7 +33,7 @@ function checkReceiverName() {		// 验证收货人
 	var value =receiverNameObj.value;
 	var msg = "";
 	if (!value)
-		msg = "收获人必须填写";	
+		msg = "(The name must be provided)";	
 	receiverNameMsg.innerHTML = msg;
 	receiverNameObj.parentNode.parentNode.style.color = msg == "" ? "black" : "red";
 	return msg == "";
@@ -44,7 +44,7 @@ function checkReceiverPhone() {		// 验证联系方式
 	var value =receiverPhoneObj.value;
 	var msg = "";
 	if (!value)
-		msg = "联系方式必须填写";
+		msg = "(Contact information must be provided)";
 	//else if (!regex.test(value))
 	//	msg = "手机号码不合法：";
 	receiverPhoneMsg.innerHTML = msg;

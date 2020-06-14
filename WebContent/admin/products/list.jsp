@@ -46,10 +46,10 @@
 								<td class="ta_01" bgColor="#ffffff">
 								<select name="category" id="category">
 										<option value="" selected="selected">--选择商品类别--</option>
-										<option value="red">红色</option>
-						<option value="yellow">黄色</option>
-						<option value="blue">蓝色</option>
-						<option value="white">白色</option>
+										<option value="red">草本</option>
+						<option value="yellow">乔木</option>
+						<option value="blue">灌木</option>
+						<option value="white">藤本</option>
 						<!--option value="经营">经营</option>
 						<option value="励志">励志</option>
 						<option value="社科">社科</option>
@@ -134,7 +134,7 @@
 										</a>
 									</td>
 									<td align="center" style="HEIGHT: 22px" width="7%">
-										<a href="${pageContext.request.contextPath}/deleteProduct?id=${p.id}" onclick="javascript:return p_del()">
+										<a href="${pageContext.request.contextPath}/deleteProduct?id=${p.id}&name=${p.name}" onclick="javascript:return p_del()">
 												<img src="${pageContext.request.contextPath}/admin/images/i_del.gif"
 												width="16" height="16" border="0" style="CURSOR: hand">
 										</a>
